@@ -1,3 +1,12 @@
+const express = require('express');
+const app = express();
+const port = process.env.PORT || 3000;
+
+app.get('/', (req, res) => res.send('Bot TaskFlow AI is running!'));
+app.listen(port, () => console.log(`Server nyala di port ${port}`));
+
+// ... (Lanjutkan dengan sisa kode whatsapp-web.js kamu di bawah sini)
+
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 const axios = require('axios');
