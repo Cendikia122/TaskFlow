@@ -1,2 +1,3 @@
-2026/06/06-08:51:02.104 a0c2 Creating DB /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/GCM Store since it was missing.
-2026/06/06-08:51:02.111 a0c2 Reusing MANIFEST /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/GCM Store/MANIFEST-000001
+2026/06/14-09:36:20.577 30085 Reusing MANIFEST /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/GCM Store/MANIFEST-000001
+2026/06/14-09:36:20.578 30085 Recovering log #3
+2026/06/14-09:36:20.578 30085 Reusing old log /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/GCM Store/000003.log 

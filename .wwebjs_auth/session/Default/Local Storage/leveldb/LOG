@@ -1,3 +1,6 @@
-2026/06/06-08:52:25.883 a8bd Reusing MANIFEST /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
-2026/06/06-08:52:25.885 a8bd Recovering log #3
-2026/06/06-08:52:25.885 a8bd Reusing old log /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/Local Storage/leveldb/000003.log 
+2026/06/14-09:41:16.102 31220 Reusing MANIFEST /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/14-09:41:16.106 31220 Recovering log #10
+2026/06/14-09:41:16.106 31220 Reusing old log /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/Local Storage/leveldb/000010.log 
+2026/06/14-09:42:16.112 31223 Level-0 table #14: started
+2026/06/14-09:42:16.119 31223 Level-0 table #14: 12639 bytes OK
+2026/06/14-09:42:16.121 31223 Delete type=0 #10

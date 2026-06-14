@@ -1,2 +1,3 @@
-2026/06/06-08:50:55.999 a0cf Creating DB /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/shared_proto_db since it was missing.
-2026/06/06-08:50:56.001 a0cf Reusing MANIFEST /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/shared_proto_db/MANIFEST-000001
+2026/06/14-09:36:13.263 30097 Reusing MANIFEST /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/shared_proto_db/MANIFEST-000001
+2026/06/14-09:36:13.264 30097 Recovering log #3
+2026/06/14-09:36:13.265 30097 Reusing old log /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/shared_proto_db/000003.log 

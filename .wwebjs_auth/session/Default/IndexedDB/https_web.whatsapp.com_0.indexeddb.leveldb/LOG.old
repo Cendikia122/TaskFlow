@@ -1,0 +1,28 @@
+2026/06/14-09:36:13.782 30084 Reusing MANIFEST /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/14-09:36:13.782 30084 Recovering log #334
+2026/06/14-09:36:13.792 30084 Reusing old log /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000334.log 
+2026/06/14-09:37:36.864 30093 Level-0 table #347: started
+2026/06/14-09:37:36.882 30093 Level-0 table #347: 1605357 bytes OK
+2026/06/14-09:37:36.890 30093 Delete type=0 #334
+2026/06/14-09:37:54.773 30086 Compacting 1@1 + 9@2 files
+2026/06/14-09:37:54.830 30086 Generated table #348@1: 47765 keys, 2259072 bytes
+2026/06/14-09:37:54.849 30086 Generated table #349@1: 2488 keys, 2154626 bytes
+2026/06/14-09:37:54.866 30086 Generated table #350@1: 2855 keys, 2153585 bytes
+2026/06/14-09:37:54.892 30086 Generated table #351@1: 11594 keys, 2170945 bytes
+2026/06/14-09:37:54.937 30086 Generated table #352@1: 28311 keys, 2276584 bytes
+2026/06/14-09:37:54.948 30086 Generated table #353@1: 171 keys, 2119248 bytes
+2026/06/14-09:37:54.962 30086 Generated table #354@1: 2933 keys, 2112356 bytes
+2026/06/14-09:37:55.006 30086 Generated table #355@1: 71910 keys, 2215645 bytes
+2026/06/14-09:37:55.047 30086 Generated table #356@1: 77005 keys, 1720365 bytes
+2026/06/14-09:37:55.047 30086 Compacted 1@1 + 9@2 files => 19182426 bytes
+2026/06/14-09:37:55.049 30086 compacted to: files[ 0 0 9 0 0 0 0 ]
+2026/06/14-09:37:55.049 30086 Delete type=2 #339
+2026/06/14-09:37:55.049 30086 Delete type=2 #338
+2026/06/14-09:37:55.049 30086 Delete type=2 #342
+2026/06/14-09:37:55.049 30086 Delete type=2 #343
+2026/06/14-09:37:55.049 30086 Delete type=2 #341
+2026/06/14-09:37:55.049 30086 Delete type=2 #340
+2026/06/14-09:37:55.049 30086 Delete type=2 #344
+2026/06/14-09:37:55.049 30086 Delete type=2 #347
+2026/06/14-09:37:55.049 30086 Delete type=2 #336
+2026/06/14-09:37:55.049 30086 Delete type=2 #337

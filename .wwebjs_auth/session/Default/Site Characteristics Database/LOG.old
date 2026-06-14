@@ -1,2 +1,3 @@
-2026/06/06-08:50:55.956 a0c1 Creating DB /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/Site Characteristics Database since it was missing.
-2026/06/06-08:50:55.965 a0c1 Reusing MANIFEST /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/Site Characteristics Database/MANIFEST-000001
+2026/06/14-09:36:12.974 30084 Reusing MANIFEST /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/Site Characteristics Database/MANIFEST-000001
+2026/06/14-09:36:12.975 30084 Recovering log #3
+2026/06/14-09:36:12.975 30084 Reusing old log /Users/bob/Downloads/TaskFlowBot/.wwebjs_auth/session/Default/Site Characteristics Database/000003.log 
